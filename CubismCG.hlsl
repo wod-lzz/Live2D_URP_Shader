@@ -1,8 +1,8 @@
 /**
- * Copyright(c) Live2D Inc. All rights reserved.
+ * This file is changed from CubismCG.cginc which is in Unity Cubism SDK
  *
- * Use of this source code is governed by the Live2D Open Software license
- * that can be found at https://www.live2d.com/eula/live2d-open-software-license-agreement_en.html.
+ * Simply change the file's extension and variable name.
+ * 
  */
 
 
